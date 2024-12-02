@@ -351,6 +351,9 @@ footer p {
     .project-card,
     footer {
         padding: 15px;
+    }
+
+    footer{
         border-radius: 0;
     }
 
