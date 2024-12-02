@@ -66,7 +66,7 @@ nav a:hover {
 /* Sections */
 main section {
     padding: 40px 20px;
-    max-width: 900px;
+    width: 900px;
     margin: auto;
     text-align: center;
     border-radius: 10px;
@@ -89,7 +89,7 @@ p {
 
 .about-section {
     padding: 60px 20px;
-    max-width: 900px;
+    width: 900px;
     margin:20px auto;
     text-align: center;
     background: #fff;
