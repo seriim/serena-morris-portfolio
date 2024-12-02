@@ -339,6 +339,7 @@ footer p {
 @media screen and (max-width: 480px) {
     header {
         padding: 15px;
+        border-radius: 0;
     }
 
     header h1 {
@@ -350,6 +351,7 @@ footer p {
     .project-card,
     footer {
         padding: 15px;
+        border-radius: 0;
     }
 
     .profile-image {
